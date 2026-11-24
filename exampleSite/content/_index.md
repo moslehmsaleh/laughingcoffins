@@ -1,4 +1,4 @@
 ---
-Laughing Coffins
+title: Laughing Coffins
 ---
 ## Example Website
